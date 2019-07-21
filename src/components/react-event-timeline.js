@@ -14,7 +14,7 @@ class TimeLineEvent extends Component{
                   iconColor="#03a9f4"
                   style={{color: '#9c27b0'}}
                 />
-                <TimelineBlip title="Astik Tyagi (01-Aug-2019)" icon={<i />} iconColor="#6fba1c" />
+                <TimelineBlip title="SSSSSSS (01-Aug-2019)" icon={<i />} iconColor="#6fba1c" />
                 </Timeline>
             </div>
         );
